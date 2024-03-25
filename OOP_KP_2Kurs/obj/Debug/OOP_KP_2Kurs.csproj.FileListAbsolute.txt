@@ -1,0 +1,11 @@
+C:\Users\Vampir\source\repos\OOP_KP_2Kurs\OOP_KP_2Kurs\bin\Debug\OOP_KP_2Kurs.exe.config
+C:\Users\Vampir\source\repos\OOP_KP_2Kurs\OOP_KP_2Kurs\bin\Debug\OOP_KP_2Kurs.exe
+C:\Users\Vampir\source\repos\OOP_KP_2Kurs\OOP_KP_2Kurs\bin\Debug\OOP_KP_2Kurs.pdb
+C:\Users\Vampir\source\repos\OOP_KP_2Kurs\OOP_KP_2Kurs\obj\Debug\OOP_KP_2Kurs.csproj.AssemblyReference.cache
+C:\Users\Vampir\source\repos\OOP_KP_2Kurs\OOP_KP_2Kurs\obj\Debug\OOP_KP_2Kurs.StartForm.resources
+C:\Users\Vampir\source\repos\OOP_KP_2Kurs\OOP_KP_2Kurs\obj\Debug\OOP_KP_2Kurs.Properties.Resources.resources
+C:\Users\Vampir\source\repos\OOP_KP_2Kurs\OOP_KP_2Kurs\obj\Debug\OOP_KP_2Kurs.csproj.GenerateResource.cache
+C:\Users\Vampir\source\repos\OOP_KP_2Kurs\OOP_KP_2Kurs\obj\Debug\OOP_KP_2Kurs.csproj.CoreCompileInputs.cache
+C:\Users\Vampir\source\repos\OOP_KP_2Kurs\OOP_KP_2Kurs\obj\Debug\OOP_KP_2Kurs.exe
+C:\Users\Vampir\source\repos\OOP_KP_2Kurs\OOP_KP_2Kurs\obj\Debug\OOP_KP_2Kurs.pdb
+C:\Users\Vampir\source\repos\OOP_KP_2Kurs\OOP_KP_2Kurs\obj\Debug\OOP_KP_2Kurs.EditingForm.resources

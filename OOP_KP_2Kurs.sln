@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_KP_2Kurs", "OOP_KP_2Kurs\OOP_KP_2Kurs.csproj", "{3480F5BC-3C3F-48E0-9B2A-85DBE8DCA79D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEditing1", "TestEditing1\TestEditing1.csproj", "{0AA83C97-CCDC-4208-A07E-AA5A15A58094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3480F5BC-3C3F-48E0-9B2A-85DBE8DCA79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3480F5BC-3C3F-48E0-9B2A-85DBE8DCA79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3480F5BC-3C3F-48E0-9B2A-85DBE8DCA79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3480F5BC-3C3F-48E0-9B2A-85DBE8DCA79D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AA83C97-CCDC-4208-A07E-AA5A15A58094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA83C97-CCDC-4208-A07E-AA5A15A58094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA83C97-CCDC-4208-A07E-AA5A15A58094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA83C97-CCDC-4208-A07E-AA5A15A58094}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9141E99-B0F5-4B07-A2F4-AF6A8B2AD3C1}
+	EndGlobalSection
+EndGlobal
